@@ -791,7 +791,7 @@ AT&T Arris NVG589 & NVG599 (SharknAT&To) (ssh),remotessh,5SaP9I26
 AT&T,,mcp
 ATX,atx,atx
 Audioactive,,telos
-audiocodes 310hd, 320hd, 420hd, 430hd & 440hd,admin,1234
+Audiocodes,admin,1234
 AudioCodes Mediant 1000 (web),Admin,Admin
 Autodesk,autocad,autocad
 Avaya,,
